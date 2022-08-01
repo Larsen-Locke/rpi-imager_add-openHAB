@@ -10,7 +10,7 @@
       "release_date": "2022-06-27",
       "image_download_size": 1000654316,
       "image_download_sha256": "33f11e535aade8159f8c5c33e66620e092d96e881c59f0fb5da457bffceafd0d",
-      "website": "https://www.openhab.org/"
+      "website": "https://www.openhab.org/docs/installation/openhabian.html#raspberry-pi-prepackaged-sd-card-image"
     },
     {
       "name": "openHABian 1.7.4 (Raspberry Pi OS lite 64 bit)",
@@ -22,7 +22,7 @@
       "release_date": "2022-06-27",
       "image_download_size": 983868572,
       "image_download_sha256": "48816000aaf12ca7d769ebfb3cda45d1e68c7adde30dece753bd69160bc1578a",
-      "website": "https://www.openhab.org/"
+      "website": "https://www.openhab.org/docs/installation/openhabian.html#raspberry-pi-prepackaged-sd-card-image"
     }
   ]
 }
